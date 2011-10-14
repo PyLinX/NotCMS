@@ -1,0 +1,5 @@
+background-color: black;
+width: 100%;
+text-align: center;
+color: #ff7000;
+font-size: 11px;

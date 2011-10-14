@@ -1,0 +1,19 @@
+    NotCMS (Nice Or Terrible CMS).
+    Copyright (C) 2011  Jona "PyLinX" Lelmi
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>. 
+NotCMS (Nice Or Terrible CMS) Si basa su un db xml, che contiene le varie "sezioni " del sito, esse possono essere di tipo "pages", ovvero una sezione contenente dei post pubblicati dall'admin, che possono essere commentati; o di tipo "guest" ovvero sezioni che implementano un guestbook. L'amministratore può pubblicare pagine, eliminarle, modificarle. Inserire link utili o eliminarli, inserire news o eliminarle, inoltre può cambiare tema css (anche se per ora ce n'è solo uno) footer e titolo del sito, inoltre è possibile cambiare db xml semplicemente cambiandolo dal pannello di amministrazione. Si possono anche aggiungere o togliere sezioni. Commenti e inserimento pagine implementano il bbcode. Inoltre esso comprende anche geshi, per il tag "code".
+Per installarlo basta cliccare sul file NotInstall.php e seguire la procedura d'installazione.
+
+CMS ancora in sviluppo... 
