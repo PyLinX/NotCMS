@@ -353,6 +353,8 @@ input:focus, textarea:focus{
 border-color: #ff7000;
 background-color: #121212;
 color: #ff7000;
+opacity: 1.0;
+filter: alpha(opacity=100);
 }
 
 input, textarea{
